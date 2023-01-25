@@ -1,33 +1,21 @@
-# TSWD-portfolio-templates
-Portfolio templates for setting up your Telling Stories with Data site.  Edit these pages as you like for your own portfolio!  
-Sometimes it's helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
-
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
+# Meghna Koushik - Analytics Portfolio 
 
 # Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+ This is my portfolio for some of the Data Visualizations I have done on Tableau and Flourish. You can access these webpage and respository with the links below!
+ - Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
+ - This repository: https://github.com/cmustudent/tswd-portfolio-templates/
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+I am Meghna Koushik, a Master of Architecture student. My study and research focuses on Building Performance and Diagnostics and Decarbonization. I beleive data vizualizations are extremely powerful tools to convey a story. 
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+Telling Stories with Data is a wonderful course that covers designing, comprehending and generating data vizualizations. My main takeaways from this course are:
 
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+1. How to simplify a large dataset and convey critical stories with minimal data. 
+2. Critiqing illustrations and developing better ones
+3. Technical knowledge
 
 # Portfolio
-
-# Examples
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
 
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
