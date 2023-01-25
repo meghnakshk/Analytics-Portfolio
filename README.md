@@ -2,8 +2,8 @@
 
 # Portfolio
  This is my portfolio for some of the Data Visualizations I have done on Tableau and Flourish. You can access these webpage and respository with the links below!
- - Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
- - This repository: https://github.com/cmustudent/tswd-portfolio-templates/
+ - Web page URL: https://meghnakshk.github.io/Analytics-Portfolio-templates/
+ - This repository: https://github.com/meghnakshk/Analytics-Portfolio-templates/
 
 # About me
 I am Meghna Koushik, a Master of Architecture student. My study and research focuses on Building Performance and Diagnostics and Decarbonization. I beleive data vizualizations are extremely powerful tools to convey a story. 
