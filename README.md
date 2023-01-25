@@ -1,7 +1,7 @@
 # Meghna Koushik - Analytics Portfolio 
 
 # Portfolio
- This is my portfolio for some of the Data Visualizations I have done on Tableau and Flourish. You can access these webpage and respository with the links below!
+ This is my portfolio of Data Visualizations I have done using Tableau and Flourish. You can access the webpage and respository with the links below!
  - Web page URL: https://meghnakshk.github.io/Analytics-Portfolio-templates/
  - This repository: https://github.com/meghnakshk/Analytics-Portfolio-templates/
 
