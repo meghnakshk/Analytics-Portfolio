@@ -6,14 +6,14 @@
  - This repository: https://github.com/meghnakshk/Analytics-Portfolio/edit/main/README.md
 
 # About me
-I am Meghna Koushik, a Master of Architecture student. My study and research focuses on Building Performance and Diagnostics and Decarbonization. I beleive data vizualizations are extremely powerful tools to convey a story. 
+I am Meghna Koushik, a Master of Architecture student. My study and research focuses on Building Performance and Diagnostics and Decarbonization. I believe data vizualizations are extremely powerful tools to convey a story. 
 
 # What I hope to learn
 Telling Stories with Data is a wonderful course that covers designing, comprehending and generating data vizualizations. My main takeaways from this course are:
 
 1. How to simplify a large dataset and convey critical stories with minimal data. 
-2. Critiqing illustrations and developing better ones
-3. Technical knowledge
+2. Critiquing illustrations
+3. Technical knowledge of Tableau and Flourish
 
 # Portfolio
 
