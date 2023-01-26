@@ -9,6 +9,8 @@
 
 # About me
 <img src="Profile picture.jpg" width="400"/>
+
+
 I am Meghna Koushik, a Master of Architecture student. My study and research focuses on Building Performance and Diagnostics and Decarbonization. I believe data vizualizations are extremely powerful tools to convey a story. 
 
 # What I hope to learn
