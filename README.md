@@ -7,8 +7,9 @@
 
 # About me
 
-![Profile Picture](Profile picture.jpg)
-> Photo by <a href="https://drive.google.com/file/d/1Co-p6uCvXe_4guew8FizZuqRCPi8pZoK/view?usp=sharing">charlesdeluvio</a> on <a href="https://drive.google.com/file/d/1Co-p6uCvXe_4guew8FizZuqRCPi8pZoK/view?usp=sharing">Unsplash</a>
+<a href="https://drive.google.com/file/d/1Co-p6uCvXe_4guew8FizZuqRCPi8pZoK/view?usp=sharing"><img src="https://drive.google.com/file/d/1Co-p6uCvXe_4guew8FizZuqRCPi8pZoK/view?usp=sharing" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
+
+
 I am Meghna Koushik, a Master of Architecture student. My study and research focuses on Building Performance and Diagnostics and Decarbonization. I believe data vizualizations are extremely powerful tools to convey a story. 
 
 # What I hope to learn
