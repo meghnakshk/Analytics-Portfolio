@@ -8,7 +8,7 @@
  - This repository: https://github.com/meghnakshk/Analytics-Portfolio/edit/main/README.md
 
 # About me
-<img src="Profile picture.jpg" width="400"/>
+<img src="Profile picture.jpg" width="200"/>
 
 
 I am Meghna Koushik, a Master of Architecture student. My study and research focuses on Building Performance and Diagnostics and Decarbonization. I believe data vizualizations are extremely powerful tools to convey a story. 
