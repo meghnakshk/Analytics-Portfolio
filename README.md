@@ -1,11 +1,13 @@
 # Meghna Koushik - Analytics Portfolio 
 
 # Portfolio
+<img src="ezgif.com-gif-maker (3).gif" width="400"/>
  This is my portfolio for Data Visualizations I have done using Tableau and Flourish. You can access the webpage and respository with the links below!
  - Web page URL: https://meghnakshk.github.io/Analytics-Portfolio/
  - This repository: https://github.com/meghnakshk/Analytics-Portfolio/edit/main/README.md
 
 # About me
+<img src="Profile picture.jpg" width="400"/>
 I am Meghna Koushik, a Master of Architecture student. My study and research focuses on Building Performance and Diagnostics and Decarbonization. I believe data vizualizations are extremely powerful tools to convey a story. 
 
 # What I hope to learn
