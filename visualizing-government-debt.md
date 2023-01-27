@@ -1,5 +1,6 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Title
-Text here!
+# Part 1: Working with web-based visualization tools and data
+The Organization for Economic Co-operation and Development (OECD) has intesting data sets on Government Debt. I vizualized ne such data set, "Government Debt by GDP" for the year 2019 on the OECD website. The bar chart comparing different countries is embedded below:
 
+<iframe src="https://data.oecd.org/chart/6XS6" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6XS6" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2019</a></iframe>
