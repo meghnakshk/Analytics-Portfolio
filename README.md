@@ -22,8 +22,12 @@ Telling Stories with Data is a wonderful course that covers designing, comprehen
 
 # Portfolio
 
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
+## Assignment: [Visualizing Government Debt](visualizing-government-debt)
+In Visualizing government debt I explored a dataset from the Organization for Economic Co-operation and Development (OECD) called 'General Government Debt'for the year 2019. I analysed the the data in three parts:
+
+Part 1: Working with web-based visualization tools and data
+Part 2: Working with Flourish
+Part 3: Working with Tableau
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
