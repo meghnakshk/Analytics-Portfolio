@@ -26,7 +26,9 @@ Telling Stories with Data is a wonderful course that covers designing, comprehen
 In Visualizing government debt I explored a dataset from the Organization for Economic Co-operation and Development (OECD) called 'General Government Debt'for the year 2019. I analysed the the data in three parts:
 
 Part 1: Working with web-based visualization tools and data
+
 Part 2: Working with Flourish
+
 Part 3: Working with Tableau
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
