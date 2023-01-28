@@ -9,3 +9,5 @@ The Organization for Economic Co-operation and Development (OECD) has intesting 
 Data for the 'Debt to GDP' ratio between the years 1996-2020 from the OECD website was vizualied using an online Analytics software called 'Flourish'. 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/12561357"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+<div class="flourish-embed flourish-hierarchy" data-src="visualisation/12572983"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
