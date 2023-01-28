@@ -11,3 +11,5 @@ Data for the 'Debt to GDP' ratio between the years 1996-2020 from the OECD websi
 <div class="flourish-embed flourish-chart" data-src="visualisation/12561357"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/12572983"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+<div class="flourish-embed flourish-cards" data-src="visualisation/12573458"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
