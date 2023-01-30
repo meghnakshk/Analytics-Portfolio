@@ -6,13 +6,15 @@ The Organization for Economic Co-operation and Development (OECD) has intesting 
 <iframe src="https://data.oecd.org/chart/6XS6" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6XS6" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2019</a></iframe>
 
 # Part 2: Working with Flourish
-Data for the 'Debt to GDP' ratio between the years 1996-2020 from the OECD website was vizualied using an online Analytics software called 'Flourish'. 
+Data for the 'Debt to GDP' ratio between the years 1995-2019 from the OECD website was vizualied using an online Analytics software called 'Flourish'. 
+
+The first vizualization is a grid of line graph, it helps readers understand the trends of increase/ decrease in the debt to GDP ratio of individual countries between the years 1996 and 2019 (inclusive). The graph also highlights the latest available data and the year it was published. This way of representation is a good way to convey the summary of a large data set. 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/12561357"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-<div class="flourish-embed flourish-hierarchy" data-src="visualisation/12572983"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+To read the debt to GDP ratio of a particular year in greater detail, a graphic such as a radial heirarchy chart is better. It displays individual debt to GDP ratios of each country in the order from highest to lowest. This helps comparison between countries across a smaller time period easy.
 
-<div class="flourish-embed flourish-cards" data-src="visualisation/12573458"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-hierarchy" data-src="visualisation/12572983"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 # Part 2: Working with Tableau
 Data for the 'Debt to GDP' ratio between the years 1996-2020 from the OECD website was vizualied using Tableau. 
