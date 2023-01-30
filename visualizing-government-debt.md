@@ -16,8 +16,9 @@ To read the debt to GDP ratio of a particular year in greater detail, a graphic 
 
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/12572983"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-# Part 2: Working with Tableau
-Data for the 'Debt to GDP' ratio between the years 1996-2020 from the OECD website was vizualied using Tableau. 
+# Part 2: Working with Tableau 
+
+The same dataset was used to generate a heat map vizualization on Tableau. 
 
 <div class='tableauPlaceholder' id='viz1675006969682' style='position: relative'><noscript><a href='#'><img alt='Government Debt to GDP Ratio  ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Go&#47;GovernmentDebttoGDPRatiosite&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='GovernmentDebttoGDPRatiosite&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Go&#47;GovernmentDebttoGDPRatiosite&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>  
 <script type='text/javascript'>
