@@ -1,4 +1,4 @@
-| [Home page](https://meghnakshk.github.io/Analytics-Portfolio/) | [Visualizing debt](visualizing-government-debt) | [Critique by design](critique-by-design) | [Final project I](final-project-part-one) | [Final project II](final-project-part-two) | [Final project III](final-project-part-three) | [Misc vizualtions](misc-visualization) |
+| [Home page](https://meghnakshk.github.io/Analytics-Portfolio/) | [Visualizing debt](visualizing-government-debt) | [Critique by design](critique-by-design) | [Final project I](final-project-part-one) | [Final project II](final-project-part-two) | [Final project III](final-project-part-three) | [Misc visualizations](misc-visualization) |
 
 # Part 1: Working with web-based visualization tools and data
 The Organization for Economic Co-operation and Development (OECD) has intesting data sets on Government Debt. I vizualized ne such data set, "Government Debt by GDP" for the year 2019 on the OECD website. The bar chart comparing different countries is embedded below:
