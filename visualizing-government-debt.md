@@ -6,7 +6,7 @@ The Organization for Economic Co-operation and Development (OECD) has intesting 
 <iframe src="https://data.oecd.org/chart/6XS6" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6XS6" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2019</a></iframe>
 
 # Part 2: Working with Flourish
-Data for the 'Debt to GDP' ratio between the years 1995-2019 from the OECD website was vizualied using an online Analytics software called 'Flourish'.
+Data for the 'Debt to GDP' ratio between the years 1995-2019 from the OECD website was visualized using an online Analytics software called 'Flourish'.
 
 ## Vizualization 1.1
 Vizualization 1.1 is a grid of line graph, it helps readers understand the trends of increase/ decrease in the debt to GDP ratio of individual countries between the years 1996 and 2019 (inclusive). This vizualization also highlights the latest available data and the year it was published. This way of representation is a good way to convey the summary of a large data set. 
