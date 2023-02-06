@@ -9,7 +9,7 @@
 
 ### female, mid 20's
 - *Can you tell me what you think this is?*
-  Shows how united states earnings compare against earnings and income-tax compares with countries in the world. 
+  Shows how united states earnings and income-tax compares with countries in the world. 
 
 - *Can you describe to me what this is telling you?*
   Switzerland has the highest net wage earnings as well as gross wage earnings, netherlands has highest but lower net wage, United states lowest amongst all of them.
