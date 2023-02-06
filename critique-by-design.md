@@ -8,19 +8,19 @@
 # Part 3: Reviews
 
 ### female, mid 20's
-- Can you tell me what you think this is?
+- *Can you tell me what you think this is?*
   Shows how united states earnings compare against earnings and income-tax compares with countries in the world. 
 
-- Can you describe to me what this is telling you?
+- *Can you describe to me what this is telling you?*
   Switzerland has the highest net wage earnings as well as gross wage earnings, netherlands has highest but lower net wage, United states lowest amongst all of them.
 
-- Is there anything you find surprising or confusing?
+- *Is there anything you find surprising or confusing?*
   Korea is surprising; Has high gross incomes and high net incomes
 
-- Who do you think is the intended audience for this?
+- *Who do you think is the intended audience for this?*
   Citizens of Unites States, basically shows how united states compares with other countries in terms of Net-earnings and oay. 
 
-- Is there anything you would change or do differently?
+- *Is there anything you would change or do differently?*
   No
 
 
