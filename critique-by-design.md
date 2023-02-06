@@ -12,7 +12,7 @@
   Shows how united states earnings and income-tax compares with countries in the world. 
 
 - *Can you describe to me what this is telling you?*
-  Switzerland has the highest net wage earnings as well as gross wage earnings, netherlands has highest but lower net wage, United states lowest amongst all of them.
+  Switzerland has the highest net wage earnings as well as gross wage earnings, netherlands has highest but lower net wage, United states lowest net wage amongst all of them.
 
 - *Is there anything you find surprising or confusing?*
   Korea is surprising; Has high gross incomes and high net incomes
