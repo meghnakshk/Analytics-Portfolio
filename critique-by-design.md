@@ -8,7 +8,7 @@ The story that the article wants to convey
 
 The visualization manages to show all OECD counntries and their respective net-home  figures and taxation details, however, I think the graph is trying to do too much. 
 
-<img src="1.jpg" width="900" height="800"/>
+<img src="1.jpg" width="800" height="1000"/>
 
 
 
