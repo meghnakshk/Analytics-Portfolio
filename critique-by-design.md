@@ -2,14 +2,13 @@
 
 # Part 1: Original Visualization
 
-The original visualization was featured in howmuch.net, a financial educational website built for the people of America. The article is titled "See How Your Take Home Pay Compares to Workers Around the World", and the article intends to help Americans compare their take-home pays and taxation between 35 different countries on the OECD list. 
+The original visualization was featured in howmuch.net, a financial educational website built for the people of America. The article is titled "See How Your Take Home Pay Compares to Workers Around the World", and the article intends to help Americans compare their take-home pays and taxation between 35 different countries. The data for average wage earnings and taxation figures is from the Organization for Economic Co-operation and Development (OECD). 
 
-The story that the article wants to convey 
+"Gross earnings refer to the amount of money you get paid before anything gets taken out, like taxes, health insurance and retirement contributions. The remainder is referred to as net earnings." - Source- howmuch.net
 
-The visualization manages to show all OECD counntries and their respective net-home  figures and taxation details, however, I think the graph is trying to do too much. 
+The visualization manages to show all OECD counntries and their respective net-home  figures and taxation details, however, I think the graph is trying to do too much.The article compares the United States net income and taxation with the top 10 countries in a separate table, which according to me, is sufficient information to convey the data. 
 
 <img src="1.jpg" width="900" height="800"/>
-
 
 
 # Part 1: Critiquing the Visualization
