@@ -2,7 +2,13 @@
 
 # Part 1: Original Visualization
 
+The original visualization was featured in howmuch.net, a financial educational website built for the people of America. The article is titled "See How Your Take Home Pay Compares to Workers Around the World", and the article intends to help Americans compare their take-home pays and 
+
 <img src="1.jpg" width="900" height="800"/>
+
+
+
+# Part 1: Critiquing the Visualization
 
 
 # Part 3: Reviews
