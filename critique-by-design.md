@@ -2,13 +2,37 @@
 
 # Part 1: Original Visualization
 
-The original visualization was featured in howmuch.net, a financial educational website built for the people of America. The article is titled "See How Your Take Home Pay Compares to Workers Around the World", and the article intends to help Americans compare their take-home pays and 
+The original visualization was featured in howmuch.net, a financial educational website built for the people of America. The article is titled "See How Your Take Home Pay Compares to Workers Around the World", and the article intends to help Americans compare their take-home pays and taxation between 35 different countries on the OECD list. 
+
+The story that the article wants to convey 
+
+The visualization manages to show all OECD counntries and their respective net-home  figures and taxation details, however, I think the graph is trying to do too much. 
 
 <img src="1.jpg" width="900" height="800"/>
 
 
 
 # Part 1: Critiquing the Visualization
+
+### What worked well:
+The Data has a list of 40 countries, and the graph manages to represent the approximate gross income, net income, income tax and social security tax percentages accurately. The legend in clear and the visualization is understandable but not instantly. 
+
+### What didn't work well: 
+- The graph is too cluttered as it represents all countries in the OECD list; which is not relevant for the narrative of the story.
+- The colors are too bright, don't complement each-other/ convey any meaning and are extremely unpleasant to the eye
+- All colors are equally bright so you don't know what to focus on
+- The flags are unnecessary and add to the chaos 
+- It is harder to compare the gross values in the radial hierarchy chart
+-Text is oriented and sized in multiple ways making the graph extremely hard to read
+
+### What I would do differently: 
+- This story is written to an average American man, so the relevance to all countries isn't important. I would primarily work with a sub-set of this data
+- The graph is trying to do too much. I would break the visualization down into smaller visualizations to convey the idea better.
+- While all data from the dataset is represented, they are not relevant to the story (Ex: Social Security Contributions); I would combine that and Income tax into a single category to focus on the net-pay
+- I would use sober colors to represent data that's not the highlight of the graph
+- I would get rid of the flags
+
+<img src="Critique.jpg" width="900" height="800"/>
 
 
 # Part 3: Reviews
