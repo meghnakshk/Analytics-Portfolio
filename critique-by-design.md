@@ -11,7 +11,9 @@ The visualization manages to show all OECD counntries and their respective net-h
 <img src="1.jpg" width="900" height="800"/>
 
 
-# Part 1: Critiquing the Visualization
+
+
+# Part 2: Critiquing the Visualization
 
 ### What worked well:
 The Data has a list of 40 countries, and the graph manages to represent the approximate gross income, net income, income tax and social security tax percentages accurately. The legend in clear and the visualization is understandable but not instantly. 
@@ -31,7 +33,11 @@ The Data has a list of 40 countries, and the graph manages to represent the appr
 - I would use sober colors to represent data that's not the highlight of the graph
 - I would get rid of the flags
 
+
+
 <img src="Critique.jpg" width="800" height="800"/>
+
+
 
 
 # Part 3: Reviews
