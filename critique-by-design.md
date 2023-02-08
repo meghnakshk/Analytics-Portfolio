@@ -52,6 +52,7 @@ The Data has a list of 35 countries, and the graph manages to represent the appr
 My approach to the redesign is simple. It uses bar charts. Although bar charts are common and overused, if used appropriately, bar charts can convey a great amount of information in an extremely simple way. Upon readind the article, I realized that the two main things the visualization wants to convey is 
 1. How the US compares with other countries in terms of take-home pays
 2. The amount of tax deducted in the US and how it compares with the other countries 
+
 However, I think these two pieces of information when conveyed in the same graph, can be chaotic. I'd like to simplify the data. To convey the point the story is trying to convey through the article, I beleive it is sufficient to use a subset of the data that involves the United States.
 
 <img src="Sketch 1.jpg" width="900" height="700"/>
