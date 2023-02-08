@@ -49,17 +49,22 @@ The Data has a list of 35 countries, and the graph manages to represent the appr
 
 # Part 3: Sketching out the Soultion
 
-My approach to the redesign is simple. It uses bar charts. Although bar charts are common and overused, if used appropriately, bar charts can convey a great amount of information in an extremely simple way. Upon readind the article, I realized that the two main things the visualization wants to convey is 
-1. How the US compares with other countries in terms of take-home pays
-2. The amount of tax deducted in the US and how it compares with the other countries 
+Upon reading the article, I realized that the two main things the visualization wants to convey is how the US compares with other countries in terms of take-home pays and the reason for the lower take-home pay. Since readers in the United States wouldn't be interested in looking at incomes or taxes of countries lower than theirs, it would make sense to work with a subset of the data. Representing all 35 countries can be chaotic. To convey this information, I would like to approach it in two parts. 
 
-However, I think these two pieces of information when conveyed in the same graph, can be chaotic. I'd like to simplify the data. To convey the point the story is trying to convey through the article, I beleive it is sufficient to use a subset of the data that involves the United States.
+#### 1: United States' take-home pay and comparison with other countries
 
 <img src="Sketch 1.jpg" width="900" height="700"/>
 
+#### 2: United States' income tax and how it ranks amongst other countries
+
 <img src="Sketch 2.jpg" width="900" height="700"/>
 
+My approach to the redesign is simple. It uses bar charts. Although bar charts are common and overused, if used appropriately, bar charts can convey a great amount of information in an extremely simple way. By greying out information that are simply not the point of the graph, I beleive we can make the graph extremely intuitivewings the reader to focus on the content we want them to. Both graphs one and two, highlight only relevant data (net income, and income tax). Another technique to make graphs extremely intuitive is to add a title that summarizes the point of the visualization. Since readers first read the title, they immedietly understand the point that the visualization intends to make. 
+
+
 # Part 4: Reviews
+
+Without explaining the context of the visualization, I reviewed my sketches with two adults, their responses are recorded below.
 
 ### Female, mid 20's
 - *Can you tell me what you think this is?*
@@ -93,7 +98,13 @@ However, I think these two pieces of information when conveyed in the same graph
 - *Is there anything you would change or do differently?*
   Just keep the legend next to the plots or on top instead of below.
   
+It was nice to know that people instantly understood the graph even without the context of the article and thought that it was intuitive. Reader two found visualization 1 a bit confusing at first because the legend was at the bottom and suggested that I moved it to the top.
+  
   # Part 5: Building the Solution on Tableau
+  
+Incorporating changes from the reviews, I built my dashboard on Tableau. 
+
+The visualizations are embedded below:
   
 <div class='tableauPlaceholder' id='viz1675664841394' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;OE&#47;OECDIncomeTax2&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='OECDIncomeTax2&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;OE&#47;OECDIncomeTax2&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>
 
