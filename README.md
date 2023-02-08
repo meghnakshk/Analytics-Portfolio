@@ -32,7 +32,7 @@ Part 2: Working with Flourish
 Part 3: Working with Tableau
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
+In critique by design, I picked a visualization, understood the story it wanted to convey, identified flaws, and re-created the visualization to communicate the story better. The visualization I chose was from a financial education website called howmuch.net. The data set is from the Organization for Economic Co-operation and Development (OECD) on income taxes and incomes worldwide. I used Stephen Few's Data Visualization to critique it, made wireframe sketches and re-created the visualizations on Tableau. 
 
 ## Final project
 Here it might be helpful to include a high-level description of your final project. 
