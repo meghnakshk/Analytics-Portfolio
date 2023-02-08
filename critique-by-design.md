@@ -51,11 +51,11 @@ The Data has a list of 35 countries, and the graph manages to represent the appr
 
 Upon reading the article, I realized that the two main things the visualization wants to convey is how the US compares with other countries in terms of take-home pays and the reason for the lower take-home pay. Since readers in the United States wouldn't be interested in looking at incomes or taxes of countries lower than theirs, it would make sense to work with a subset of the data. Representing all 35 countries can be chaotic. To convey this information, I would like to approach it in two parts. 
 
-#### 1: United States' take-home pay and comparison with other countries
+### 1: United States' take-home pay and comparison with other countries
 
 <img src="Sketch 1.jpg" width="900" height="700"/>
 
-#### 2: United States' income tax and how it ranks amongst other countries
+### 2: United States' income tax and how it ranks amongst other countries
 
 <img src="Sketch 2.jpg" width="900" height="700"/>
 
