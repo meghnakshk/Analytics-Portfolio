@@ -30,13 +30,14 @@ The Data has a list of 35 countries, and the graph accurately represents the app
 - It is harder to compare the gross values in the radial hierarchy chart
 -Text is oriented and sized in multiple ways making the graph extremely hard to read
 
-### What I would do differently: 
+What I would do differently: 
 - This story is written to an average American man, so the relevance to all countries isn't important. I would primarily work with a sub-set of this data
 - The graph is trying to do too much. I would break the visualization down into smaller visualizations to convey the idea better.
 - While all data from the dataset is represented, they are not relevant to the story (Ex: Social Security Contributions); I would combine that and Income tax into a single category to focus on the net-pay
 - I would use sober colors to represent data that's not the highlight of the graph
 - I would get rid of the flags
 
+###  Stephen Few's Data Visualization Effectiveness Profile
 
 
 
