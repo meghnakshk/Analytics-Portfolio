@@ -6,8 +6,7 @@ The original visualization was featured in howmuch.net, a financial educational 
 
 *"Gross earnings refer to the amount of money you get paid before anything gets taken out, like taxes, health insurance and retirement contributions. The remainder is referred to as net earnings."* - Source- howmuch.net
 
-The visualization manages to show all OECD counntries and their respective net-home  figures and taxation details, however, I think the graph is trying to do too much.The article compares the United States net income and taxation with the top 10 countries in a separate table, which according to me, is sufficient information to convey the data. 
-
+I chose this particular data visualization because the content that the article is so simply, but it took me a while to figure out what the graphic was saying. I thought the data represented in the article could be represented better. The visualization manages to show all OECD counntries and their respective net-home  figures and taxation details, however, I think the graph is trying to do too much.The article compares the United States net income and taxation with the top 10 countries in a separate table, which according to me, is sufficient information to convey the data. 
 
 
 
@@ -19,8 +18,12 @@ The visualization manages to show all OECD counntries and their respective net-h
 
 # Part 2: Critiquing the Visualization
 
+While this visualization conveys all teh necessary data, the visualization is not intuitive. I didn't immediately understand what the visualization was trying to convey. 
+
+## Breaking down the visualization:
+
 ### What worked well:
-The Data has a list of 40 countries, and the graph manages to represent the approximate gross income, net income, income tax and social security tax percentages accurately. The legend in clear and the visualization is understandable but not instantly. 
+The Data has a list of 35 countries, and the graph manages to represent the approximate gross income, net income, income tax and social security tax percentages accurately. The legend in clear and the visualization is understandable but not instantly. 
 
 ### What didn't work well: 
 - The graph is too cluttered as it represents all countries in the OECD list; which is not relevant for the narrative of the story.
@@ -45,6 +48,11 @@ The Data has a list of 40 countries, and the graph manages to represent the appr
 
 
 # Part 3: Sketching out the Soultion
+
+My approach to the redesign is simple. It uses bar charts. Although bar charts are common and overused, if used appropriately, bar charts can convey a great amount of information in an extremely simple way. Upon readind the article, I realized that the two main things the visualization wants to convey is 
+1. How the US compares with other countries in terms of take-home pays
+2. The amount of tax deducted in the US and how it compares with the other countries 
+However, I think these two pieces of information when conveyed in the same graph, can be chaotic. I'd like to simplify the data. To convey the point the story is trying to convey through the article, I beleive it is sufficient to use a subset of the data that involves the United States.
 
 <img src="Sketch 1.jpg" width="900" height="700"/>
 
