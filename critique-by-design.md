@@ -2,12 +2,9 @@
 
 # Part 1: Original Visualization
 
-The original visualization was featured in howmuch.net, a financial educational website that makes visualizations and stories to help people make btter financial decisions. The article is titled *"See How Your Take Home Pay Compares to Workers Around the World"*, and the article intends to help Americans compare their take-home pays and taxation between 35 different countries. The data for average wage earnings and taxation figures is from the Organization for Economic Co-operation and Development (OECD). 
+The original visualization was featured in howmuch.net, a financial education website that makes visualizations and stories to help people make better financial decisions. The article is titled *"See How Your Take Home Pay Compares to Workers Around the World"*, and intends to help Americans compare their take-home pays and taxation between 35 different countries. The data for average wage earnings and taxation figures is from the Organization for Economic Co-operation and Development (OECD). 
 
-*"Gross earnings refer to the amount of money you get paid before anything gets taken out, like taxes, health insurance and retirement contributions. The remainder is referred to as net earnings."* - Source- howmuch.net
-
-I chose this particular data visualization because the content that the article is so simply, but it took me a while to figure out what the graphic was saying. I thought the data represented in the article could be represented better. The visualization manages to show all OECD counntries and their respective net-home  figures and taxation details, however, I think the graph is trying to do too much.The article compares the United States net income and taxation with the top 10 countries in a separate table, which according to me, is sufficient information to convey the data. 
-
+I chose this particular data visualization because the article's content is so simple, but it took me a while to figure out what the graphic was saying. The data represented in the report could be expressed better. The visualization shows all OECD countries' respective net-home figures and taxation details. The article compares the United States' net income and taxation with the top 10 countries in a separate table, which is sufficient information to convey the data. 
 
 
 
@@ -18,12 +15,12 @@ I chose this particular data visualization because the content that the article 
 
 # Part 2: Critiquing the Visualization
 
-While this visualization conveys all teh necessary data, the visualization is not intuitive. I didn't immediately understand what the visualization was trying to convey. 
+While this visualization conveys all the necessary data, the visualization could be more intuitive. I didn't immediately understand what the visualization was trying to convey. 
 
 ## Breaking down the visualization:
 
 ### What worked well:
-The Data has a list of 35 countries, and the graph manages to represent the approximate gross income, net income, income tax and social security tax percentages accurately. The legend in clear and the visualization is understandable but not instantly. 
+The Data has a list of 35 countries, and the graph accurately represents the approximate gross income, net income, income tax and social security tax percentages. The legend in clear, and the visualization is understandable but not instantly. 
 
 ### What didn't work well: 
 - The graph is too cluttered as it represents all countries in the OECD list; which is not relevant for the narrative of the story.
@@ -49,22 +46,30 @@ The Data has a list of 35 countries, and the graph manages to represent the appr
 
 # Part 3: Sketching out the Solution
 
-Upon reading the article, I realized that the two main things the visualization wants to convey is how the US compares with other countries in terms of take-home pays and the reason for the lower take-home pay. Since readers in the United States wouldn't be interested in looking at incomes or taxes of countries lower than theirs, it would make sense to work with a subset of the data. Representing all 35 countries can be chaotic. To convey this information, I would like to approach it in two parts. 
+Upon reading the article, I realized that the two main things the visualization wants to convey are how the US compares with other countries in terms of take-home pay and the reason for the lower take-home pay. Since readers in the United States would be interested in looking at incomes or taxes of countries higher than theirs, it would make sense to work with a subset of the data. Representing all 35 countries can be chaotic. To convey this information, I would like to approach it in two parts. 
 
 ### 1: United States' take-home pay and comparison with other countries
 
+
+
 <img src="Sketch 1.jpg" width="900" height="700"/>
+
+
 
 ### 2: United States' income tax and how it ranks amongst other countries
 
+
+
 <img src="Sketch 2.jpg" width="900" height="700"/>
 
-My approach to the redesign is simple. It uses bar charts. Although bar charts are common and overused, if used appropriately, bar charts can convey a great amount of information in an extremely simple way. By greying out information that are simply not the point of the graph, I beleive we can make the graph extremely intuitivewings the reader to focus on the content we want them to. Both graphs one and two, highlight only relevant data (net income, and income tax). Another technique to make graphs extremely intuitive is to add a title that summarizes the point of the visualization. Since readers first read the title, they immedietly understand the point that the visualization intends to make. 
+
+
+My approach to the redesign is simple. It uses bar charts. Although bar charts are common and overused, if used appropriately, bar charts can convey a significant amount of information effortlessly. By greying out information that is not the point of the graph, we can make the chart extremely intuitive by making the reader focus on the content we want them to. Both graphs, one and two, highlight only relevant data (net income and income tax). Another technique to make graphs extremely intuitive is to add a title that summarizes the point of the visualization. Since readers first read the title, they immediately understand what the visualization intends to make. 
 
 
 # Part 4: Reviews
 
-Without explaining the context of the visualization, I reviewed my sketches with two adults, their responses are recorded below.
+Without explaining the context of the visualization, I reviewed my sketches with two adults; I ahv recorded their responses below.
 
 ### Female, mid 20's
 - *Can you tell me what you think this is?*
@@ -98,7 +103,7 @@ Without explaining the context of the visualization, I reviewed my sketches with
 - *Is there anything you would change or do differently?*
   Just keep the legend next to the plots or on top instead of below.
   
-It was nice to know that people instantly understood the graph even without the context of the article and thought that it was intuitive. Reader two found visualization 1 a bit confusing at first because the legend was at the bottom and suggested that I moved it to the top.
+It was nice to know that people instantly understood the graph, even without the article's context, and thought that the graphic was intuitive. Reader two found visualization one a bit confusing initially because the legend was at the bottom and suggested that I move it to the top.
   
 # Part 4: Building the solution on Tableau
   
