@@ -100,7 +100,7 @@ Without explaining the context of the visualization, I reviewed my sketches with
   
 It was nice to know that people instantly understood the graph even without the context of the article and thought that it was intuitive. Reader two found visualization 1 a bit confusing at first because the legend was at the bottom and suggested that I moved it to the top.
   
-# Part 5: Building the Solution on Tableau
+# Part 4: Building the solution on Tableau
   
 Incorporating changes from the reviews, I built my dashboard on Tableau. 
 
