@@ -46,9 +46,9 @@ The Data has a list of 40 countries, and the graph manages to represent the appr
 
 # Part 3: Sketching out the Soultion
 
-<img src="Sketch 1.jpg" width="900" height="800"/>
+<img src="Sketch 1.jpg" width="900" height="700"/>
 
-<img src="Sketch 2.jpg" width="900" height="800"/>
+<img src="Sketch 2.jpg" width="900" height="700"/>
 
 # Part 4: Reviews
 
