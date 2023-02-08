@@ -47,7 +47,7 @@ The Data has a list of 35 countries, and the graph manages to represent the appr
 
 
 
-# Part 3: Sketching out the Soultion
+# Part 3: Sketching out the Solution
 
 Upon reading the article, I realized that the two main things the visualization wants to convey is how the US compares with other countries in terms of take-home pays and the reason for the lower take-home pay. Since readers in the United States wouldn't be interested in looking at incomes or taxes of countries lower than theirs, it would make sense to work with a subset of the data. Representing all 35 countries can be chaotic. To convey this information, I would like to approach it in two parts. 
 
@@ -100,7 +100,7 @@ Without explaining the context of the visualization, I reviewed my sketches with
   
 It was nice to know that people instantly understood the graph even without the context of the article and thought that it was intuitive. Reader two found visualization 1 a bit confusing at first because the legend was at the bottom and suggested that I moved it to the top.
   
-  # Part 5: Building the Solution on Tableau
+# Part 5: Building the Solution on Tableau
   
 Incorporating changes from the reviews, I built my dashboard on Tableau. 
 
