@@ -2,7 +2,7 @@
 
 
 # Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
+>Buildings account for 40% of the United States's carbon emissions, and appliances significantly contribute to the carbon emissions in buildings. Refrigerators are of great concern since they are connected to electric power 24 hours a day, year-round. Several households in the United States need to update their primary and secondary refrigerators that consume significant energy. Through a range of visualizations, this project shows the number of old refrigerators in the United States, their energy consumption and the need to update them. This story urges readers to surrender and replace their old refrigerators with energy-plus refrigerators and directs them to rebate programs proposed by the government. 
  
 Text here...
 
