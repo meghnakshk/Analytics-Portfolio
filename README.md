@@ -40,8 +40,11 @@ Here it might be helpful to include a high-level description of your final proje
 
 
 ### [Part I](final-project-part-one)
-[Part II](final-project-part-two)
-Part III(final-project-part-three)
+
+Part one discusses a brief outline of the project and illustrates a tentative workflow through various sketches. The project caters to ordinary people in the United States; it describes the importance of energy efficiency in homes. This project talks explicitly about refrigerators, the number of old refrigerators in the country, and the need to replace them. It directs the readers to sources for energy star products and financial aid. 
+
+### [Part II](final-project-part-two)
+### [Part III](final-project-part-three)
 
 ---
 
