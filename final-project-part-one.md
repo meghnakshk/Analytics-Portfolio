@@ -20,11 +20,12 @@ Text here...
 
 > A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 
-| Name | URL | Description |
-|------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+| Name                        | URL                                                                            | Description                            |
+|------                       |-----                                                                           |-------------                           |
+|   EIA RECS                  | https://www.eia.gov/consumption/residential/data/2020/index.php?view=microdata |  Residential Energy Consumption Survey |
+|   Flip your savings         | https://www.energystar.gov/products/appliances/refrigerators/flip-your-fridge  |  Energy Star Savings Data              |
+|   Greenhouse equivalencies  | https://www.epa.gov/energy/greenhouse-gas-equivalencies-calculator             |  Carbon Emission Equivalencies         |
+|   LLNL Energy flows         | https://flowcharts.llnl.gov/                                                   |  LLNL Energy Flows diagram             |
 
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
