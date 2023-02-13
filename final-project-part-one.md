@@ -14,11 +14,7 @@ Text here...
 Text here...
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
-
-Text here...
-
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+The data source for this project is going to be U.S Energy Information Agency's survey called "Residential Energy Consumption Survey (RECS) 2020". This dataset is available on EIA's website. Additionally I will be using Energy Star's savings calculator, LLNL's enerrgy flows diagram (2020) and, U.S Environmental Protection Agency's (U.S EPA) Greenhousegas Equivalencies calcultor to get some information on energy usage, and carbon emissions. These are publicly available datasets. A link to these datasets are listen in the table below. 
 
 | Name                        | URL                                                                            | Description                            |
 |------                       |-----                                                                           |-------------                           |
