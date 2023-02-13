@@ -20,8 +20,6 @@ Text here...
 <img src="09.jpg" width="400" height="400"/>
 <img src="10.jpg" width="400" height="400"/>
 
-Text here...
-
 # The data
 The data source for this project is going to be U.S Energy Information Agency's survey called "Residential Energy Consumption Survey (RECS) 2020". This dataset is available on EIA's website. Additionally I will be using Energy Star's savings calculator, LLNL's enerrgy flows diagram (2020) and, U.S Environmental Protection Agency's (U.S EPA) Greenhousegas Equivalencies calcultor to get some information on energy usage, and carbon emissions. These are publicly available datasets. A link to these datasets are listen in the table below. 
 
