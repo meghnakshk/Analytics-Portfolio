@@ -8,16 +8,16 @@ Buildings account for 40% of the United States's carbon emissions, and appliance
 Text here...
 
 ## Initial sketches
-<img src="01.jpg" width="400" height="400"/>
-<img src="02.jpg" width="400" height="400"/>
-<img src="03.jpg" width="400" height="400"/>
-<img src="04.jpg" width="400" height="400"/>
-<img src="05.jpg" width="400" height="400"/>
-<img src="06.jpg" width="400" height="400"/>
-<img src="07.jpg" width="400" height="400"/>
-<img src="08.jpg" width="400" height="400"/>
-<img src="09.jpg" width="400" height="400"/>
-<img src="10.jpg" width="400" height="400"/>
+<img src="01.jpg" width="600" height="600"/>
+<img src="02.jpg" width="600" height="600"/>
+<img src="03.jpg" width="600" height="600"/>
+<img src="04.jpg" width="600" height="600"/>
+<img src="05.jpg" width="600" height="600"/>
+<img src="06.jpg" width="600" height="600"/>
+<img src="07.jpg" width="600" height="600"/>
+<img src="08.jpg" width="600" height="600"/>
+<img src="09.jpg" width="600" height="600"/>
+<img src="10.jpg" width="600" height="600"/>
 
 The main idea that the story wants to convey is that old refrigerators consume significant amounts of energy in the United States, and by the end of the presentation I urge people to discard/ replace their old refrigerators.
 
