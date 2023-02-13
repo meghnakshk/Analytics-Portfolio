@@ -28,6 +28,5 @@ Text here...
 |   LLNL Energy flows         | https://flowcharts.llnl.gov/                                                   |  LLNL Energy Flows diagram             |
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
+From the EIA dataset, I will clean the data for rewuired information on refrigerators and visualize it using Tableau and Flourish. I plan on using Abobe illustrator, to make text and infofram diagrams. I plan to use shorthand to put the entire presentation together and publish it. 
 
-Text here...
