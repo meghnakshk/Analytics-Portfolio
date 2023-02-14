@@ -24,8 +24,9 @@ The sketches start broad, with the consumption of energy in buildings. The secon
 
 
 # The data
-The data source for this project is going to be U.S Energy Information Agency's survey called "Residential Energy Consumption Survey (RECS) 2020". This dataset is projected from a survey that takes place every five years. This dataset covers data on energy consumption by end use, number of appliances, income groups etc.
-This dataset is available on EIA's website. Additionally I will be using Energy Star's savings calculator, LLNL's enerrgy flows diagram (2020) and, U.S Environmental Protection Agency's (U.S EPA) Greenhousegas Equivalencies calcultor to get some information on energy usage, and carbon emissions. These are publicly available datasets. A link to these datasets are listen in the table below. 
+The primary data source for this project is going to be U.S Energy Information Agency's survey called "Residential Energy Consumption Survey (RECS) 2020". This dataset is projected from a survey that takes place every five years. This dataset covers data on energy consumption by end use, number of appliances, income groups etc. and is available on EIA's website. 
+
+Additionally I will be using Energy Star's savings calculator, LLNL's enerrgy flows diagram (2020) and, U.S Environmental Protection Agency's (U.S EPA) Greenhousegas Equivalencies calcultor to get some information on energy usage, and carbon emissions. These are publicly available datasets. A link to these datasets are listen in the table below. 
 
 | Name                        | URL                                                                            | Description                            |
 |------                       |-----                                                                           |-------------                           |
