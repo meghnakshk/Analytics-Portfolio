@@ -11,22 +11,32 @@ The sketches start broad, with the consumption of energy in buildings. The secon
 
 
 ## Initial sketches
+Sketch 1: Represents how much the building industry contributes to carbin emissions globally (Nested-Pi chart)
 <img src="01.jpg" width="600" height="600"/>
+Sketch 2: Represents how much appliances contribute to the building industry (Nested-Pi chart)
 <img src="02.jpg" width="600" height="600"/>
+Sketch 3: Represents the energy contribution of refrigerators to the appliance energy consumption (Nested-Pi chart)
 <img src="03.jpg" width="600" height="600"/>
+Sketch 4: Number of households with refrigerators older than 20 years (Bar graph)
 <img src="04.jpg" width="600" height="600"/>
+Sketch 5: Energy consumed by one refrigerator (Text)
 <img src="05.jpg" width="600" height="600"/>
+Sketch 6: Energy Consumed by all the old refrigerators in the United States; infographic data to clarify intensity (Text and infographic)
 <img src="06.jpg" width="600" height="600"/>
+Sketch 6: Carbon Emissions by all the old refrigerators in the United States; infographic data to clarify intensity (Text and infographic)
 <img src="07.jpg" width="600" height="600"/>
+Sketch 7: Money saved by replacing refrigerator to an energy-star refrigerator in one household; infographic data to clarify intensity (Text and infographic)
 <img src="08.jpg" width="600" height="600"/>
+Sketch 8: Distribution of old refrigerators and income groups of households (Tree map)
 <img src="09.jpg" width="600" height="600"/>
+Sketch 9: Call to Action! Links to rebates to various income groups and link to energy-star refrigerator portfolio
 <img src="10.jpg" width="600" height="600"/>
 
 
 # The data
-The primary data source for this project is going to be U.S Energy Information Agency's survey called "Residential Energy Consumption Survey (RECS) 2020". This dataset is projected from a survey that takes place every five years. This dataset covers data on energy consumption by end use, number of appliances, income groups etc. and is available on EIA's website. 
+The primary data source for this project will be U.S Energy Information Agency's "Residential Energy Consumption Survey (RECS) 2020". This dataset is projected from a survey that takes place every five years. This dataset covers energy consumption by end-use, number of appliances, income groups etc. and is available on EIA's website. 
 
-Additionally I will be using Energy Star's savings calculator, LLNL's enerrgy flows diagram (2020) and, U.S Environmental Protection Agency's (U.S EPA) Greenhousegas Equivalencies calcultor to get some information on energy usage, and carbon emissions. These are publicly available datasets. A link to these datasets are listen in the table below. 
+Additionally, I will be using Energy Star's savings calculator, Lawrence Livermore National Laboratory (LLNL)'s energy flows diagram (2020) and, U.S Environmental Protection Agency's (U.S EPA) Greenhouse gas Equivalencies calculator to get information on energy usage, and carbon emissions required for the project. These are publicly available datasets. A link to these datasets is listed in the table below. All data are public links.
 
 | Name                        | URL                                                                            | Description                            |
 |------                       |-----                                                                           |-------------                           |
@@ -36,5 +46,5 @@ Additionally I will be using Energy Star's savings calculator, LLNL's enerrgy fl
 |   LLNL Energy flows         | https://flowcharts.llnl.gov/                                                   |  LLNL Energy Flows diagram             |
 
 # Method and medium
-From the EIA dataset, I will clean the data for rewuired information on refrigerators and visualize it using Tableau and Flourish. I plan on using Abobe illustrator for the infographics. I plan to use shorthand to put the entire presentation together and publish it. 
+From the EIA dataset, I will clean the data for required information on refrigerators and visualize it using Tableau and Flourish. I plan on using Abobe illustrator for the infographics. I plan to use shorthand to put the entire presentation together and publish it. 
 
