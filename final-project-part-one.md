@@ -11,25 +11,66 @@ The sketches start broad, with the consumption of energy in buildings. The secon
 
 
 ## Initial sketches
-Sketch 1: Represents how much the building industry contributes to carbin emissions globally (Nested-Pi chart)
+
+
+
+### Sketch 1: Represents how much the building industry contributes to carbin emissions globally (Nested-Pi chart)
+
+
 <img src="01.jpg" width="600" height="600"/>
-Sketch 2: Represents how much appliances contribute to the building industry (Nested-Pi chart)
+
+
+### Sketch 2: Represents how much appliances contribute to the building industry (Nested-Pi chart)
+
+
 <img src="02.jpg" width="600" height="600"/>
-Sketch 3: Represents the energy contribution of refrigerators to the appliance energy consumption (Nested-Pi chart)
+
+
+### Sketch 3: Represents the energy contribution of refrigerators to the appliance energy consumption (Nested-Pi chart)
+
+
 <img src="03.jpg" width="600" height="600"/>
-Sketch 4: Number of households with refrigerators older than 20 years (Bar graph)
+
+
+### Sketch 4: Number of households with refrigerators older than 20 years (Bar graph)
+
+
 <img src="04.jpg" width="600" height="600"/>
-Sketch 5: Energy consumed by one refrigerator (Text)
+
+
+### Sketch 5: Energy consumed by one refrigerator (Text)
+
+
 <img src="05.jpg" width="600" height="600"/>
-Sketch 6: Energy Consumed by all the old refrigerators in the United States; infographic data to clarify intensity (Text and infographic)
+
+
+### Sketch 6: Energy Consumed by all the old refrigerators in the United States; infographic data to clarify intensity (Text and infographic)
+
+
 <img src="06.jpg" width="600" height="600"/>
-Sketch 6: Carbon Emissions by all the old refrigerators in the United States; infographic data to clarify intensity (Text and infographic)
+
+
+### Sketch 6: Carbon Emissions by all the old refrigerators in the United States; infographic data to clarify intensity (Text and infographic)
+
+
 <img src="07.jpg" width="600" height="600"/>
-Sketch 7: Money saved by replacing refrigerator to an energy-star refrigerator in one household; infographic data to clarify intensity (Text and infographic)
+
+
+### Sketch 7: Money saved by replacing refrigerator to an energy-star refrigerator in one household; infographic data to clarify intensity (Text and infographic)
+
+
 <img src="08.jpg" width="600" height="600"/>
-Sketch 8: Distribution of old refrigerators and income groups of households (Tree map)
+
+
+### Sketch 8: Distribution of old refrigerators and income groups of households (Tree map)
+
+
 <img src="09.jpg" width="600" height="600"/>
-Sketch 9: Call to Action! Links to rebates to various income groups and link to energy-star refrigerator portfolio
+
+
+### Sketch 9: Call to Action! Links to rebates to various income groups and link to energy-star refrigerator portfolio
+
+
 <img src="10.jpg" width="600" height="600"/>
 
 
