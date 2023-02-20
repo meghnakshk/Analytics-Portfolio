@@ -8,12 +8,12 @@ Based on the sketches done in Part 1, I constructed the my basic wireframe and s
 
 # User Research and Interviews
 
-| Questions                      | Answer 1                                   |  Answer 2                     | Answer 3
+| Questions                      | Answer 1                                   | Answer 2                     | Answer 3
 |------                       |-----                                                                           |----
-|   EIA RECS                  | https://www.eia.gov/consumption/residential/data/2020/index.php?view=microdata |  
-|   Flip your savings         | https://www.energystar.gov/products/appliances/refrigerators/flip-your-fridge  |  
-|   Greenhouse equivalencies  | https://www.epa.gov/energy/greenhouse-gas-equivalencies-calculator             |  
-|   LLNL Energy flows         | https://flowcharts.llnl.gov/                                                   |  
+|   EIA RECS                  | dsfvi | chihcia | dvdsv 
+|   Flip your savings         | dsfvi | chihcia  | svdsv 
+|   Greenhouse equivalencies  | dsfvi | chihcia    | vdsva 
+|   LLNL Energy flows         | dsfvi | chihcia                                                 |  jgygb
 
 
 # Moodboards and Persona
