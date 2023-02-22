@@ -9,11 +9,11 @@ Based on the sketches done in Part 1, I constructed the my basic wireframe and s
 # User Research and Interviews:
 
 <img src="Slide1.JPG" width="800" height="1400"/>
-<img src="Slide2_reviews.jpg" width="800" height="500"/>
+<img src="Slide2_reviews.jpg" width="800" height="450"/>
 
 ## In class reviews:
 
-<img src="Slide2_Inclass.jpg" width="800" height="1800"/>
+<img src="Slide2_Inclass.jpg" width="800" height="450"/>
 
 
 # Moodboards and Persona
