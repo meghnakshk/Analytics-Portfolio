@@ -2,7 +2,7 @@
 
 # Wireframes and Storyboards
 
-Based on the sketches done in Part 1, I constructed the my basic wireframe and storyboard
+Based on the sketches done in Part 1, I constructed the my basic wireframe and storyboard [here](https://preview.shorthand.com/qJtOf6atGVFm7vKU)
 
 
 
