@@ -64,11 +64,12 @@ Since the main aim of this project is to educate, I identified different age gro
 I was glad that all three people found the presentation easy to understand and thought it followed a story even when it was not fully developed. Overall, they felt that the background images were appropriate, the visualizations were mostly easy to comprehend, and the resources at the end were valuable. 
 
 ### Some changes for Part 3:
-1. Suggestion to add background images to visualizations: When I first presented the preview, I put together the visualizations on a white background which many felt did not go with the rest of the presentation. I added images and thought that it looked better.
-2. Income- Age Refrigerator Visualization: The visualization towards the end didn't incorporate total numbers of all income groups initially, which people preferred seeing. I added that to show the totals and the number of 20+-year-old refrigerators. 
+1. *Suggestion to add background images to visualizations:*  When I first presented the preview, I put together the visualizations on a white background which many felt did not go with the rest of the presentation. I added images and thought that it looked better.
+3. *Income- Age Refrigerator Visualization:*
+-  The visualization towards the end didn't incorporate total numbers of all income groups initially, which people preferred seeing. I added that to show the totals and the number of 20+-year-old refrigerators. 
 - The latest suggestion on the visualization was that the number of 20+-year-old refrigerators seems insignificant to the total number of households. The interviewee suggested moving the visualization or changing it not to make it seem inconsequential.
-3. Formatting: Changing colors of fonts and brightness of the background image to improve visibility and enhance readability
-4. Add information about the specific target audience and the solution towards the end. Part of this suggestion has been incorporated but can be improved.
+4. *Formatting:* Changing colors of fonts and brightness of the background image to improve visibility and enhance readability
+5. Add information about the specific target audience and the solution towards the end. Part of this suggestion has been incorporated but can be improved.
 
 # Moodboards and Persona
 
