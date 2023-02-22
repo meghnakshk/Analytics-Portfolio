@@ -43,21 +43,35 @@ Low-income households especially suffer from energy insecurity. Families struggl
 
 ## Interviewees:
 
-The main Target Audience for this study are different age groups. Did all age groups irrespective of their profession find this persuasive? 
+Since the main aim of this project is to educate, I identified different age groups of people to interview. I presented my outline to three women in different age groups to understand if they needed help understanding what I was trying to convey. I got a homeowner(my primary target audience), a professor and a student to see if the proposed project is understandable. The profiles of the three people I interviewed are listed below
 
 <img src="Reviews_Profile.jpg" width="800" height="400"/>
 
 ## Interview Answers:
+
+ Deatiled answers to my individual questions by all three intervieees are recorded bwlow.
 
 <img src="Slide1.JPG" width="800" height="1400"/>
 <img src="Slide2_reviews.jpg" width="800" height="600"/>
 
 ## In class reviews:
 
+
 <img src="Slide2_Inclass.jpg" width="800" height="500"/>
 
 ## Takeaways:
 
+I was glad that all three people found the presentation easy to understand and thought it followed a story even when it was not fully developed. Overall, they felt that the background images were appropriate, the visualizations were mostly easy to comprehend, and the resources at the end were valuable. 
+
+### Some changes for Part 3:
+1. Suggestion to add background images to visualizations: When I first presented the preview, I put together the visualizations on a white background which many felt did not go with the rest of the presentation. I added images and thought that it looked better.
+2. Income- Age Refrigerator Visualization: The visualization towards the end didn't incorporate total numbers of all income groups initially, which people preferred seeing. I added that to show the totals and the number of 20+-year-old refrigerators. 
+- The latest suggestion on the visualization was that the number of 20+-year-old refrigerators seems insignificant to the total number of households. The interviewee suggested moving the visualization or changing it not to make it seem inconsequential.
+3. Formatting: Changing colors of fonts and brightness of the background image to improve visibility and enhance readability
+4. Add information about the specific target audience and the solution towards the end. Part of this suggestion has been incorporated but can be improved.
 
 # Moodboards and Persona
+
+The idea I wanted to convey with my theme is "old" and "rusty." I found a color palette with mostly browns, some greys, and black and white. I thought brown might be an exciting color to represent anything I wanted to highlight. The idea is to design a scheme such that all images are greyscaled, and only some rusty parts of the refrigerators are left in color to show emphasis. The pictures towards the end become coloured images showing hope and a definitive path to follow. Some illustrations and ideas for the theme are presented in the form of a mood board below.
+
 <img src="theme.jpg" width="800" height="600"/>
