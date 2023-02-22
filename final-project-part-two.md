@@ -35,8 +35,13 @@ The main Target Audience for this study are different age groups. Did all age gr
 
 <img src="Homeowners.jpg" width="400" height="400"/>
 
+Homeowners are the main target for this blog post because several of them are unaware of the ineffectiveness of their old refrigerators. Homeowners tend to use their refrigerator for as long as it works without realizing how detrimental it is to the environment and how bad it is for their pockets. Homeowners often read about climate change but usually need to learn how to contribute to the fight against it. This blog post is an effective strategy for them to contribute to saving energy for the climate and cost on their energy bills.
+
 ### Government Officials
+
 <img src="Government Officials.jpg" width="400" height="400"/>
+
+Low-income households especially suffer from energy insecurity. Families struggle to pay bills. The government has measures for energy insecurity and funding to pay bills for impoverished households under The Low Income Home Energy Assistance Program (LIHEAP). However, the government needs to have measures in place for complete equipment switchouts. Total equipment replacements have a payback of 5 years for refrigerators and are a more effective solution than energy bill assistance programs. This blog post could also be informative for government officials to understand where they could focus on savings.
 
 ## Interviewees:
 
@@ -52,7 +57,6 @@ The main Target Audience for this study are different age groups. Did all age gr
 <img src="Slide2_Inclass.jpg" width="800" height="500"/>
 
 ## Takeaways:
-
 
 
 # Moodboards and Persona
