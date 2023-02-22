@@ -43,13 +43,13 @@ Low-income households especially suffer from energy insecurity. Families struggl
 
 ## Interviewees:
 
-Since the main aim of this project is to educate, I identified different age groups of people to interview. I presented my outline to three women in different age groups to understand if they needed help understanding what I was trying to convey. I got a homeowner(my primary target audience), a professor and a student to see if the proposed project is understandable. The profiles of the three people I interviewed are listed below
+Since the main aim of this project is to educate, I identified different age groups of people to interview. I presented my outline to three women in different age groups to understand if they needed help understanding what I was trying to convey. I got a homeowner(my primary target audience), a professor and a student (rented house) to see if the proposed project is understandable and relevant. The profiles of the three people I interviewed are listed below
 
 <img src="Reviews_Profile.jpg" width="800" height="400"/>
 
 ## Interview Answers:
 
- Deatiled answers to my individual questions by all three intervieees are recorded bwlow.
+ Detailed answers to individual questions by all three interviewees are recorded below.
 
 <img src="Slide1.JPG" width="800" height="1400"/>
 <img src="Slide2_reviews.jpg" width="800" height="600"/>
