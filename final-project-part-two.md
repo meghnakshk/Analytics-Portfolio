@@ -29,8 +29,6 @@ The user research study in this Project aims to understand four main items:
 
 ## Target Audience:
 
-The main Target Audience for this study are different age groups. Did all age groups irrespective of their profession find this persuasive? 
-
 ### Homeowners
 
 <img src="Homeowners.jpg" width="400" height="400"/>
