@@ -6,14 +6,14 @@ Based on the sketches done in Part 1, I constructed the my basic wireframe and s
 
 
 
-# User Research and Interviews
+# User Research and Interviews:
 
-| Questions                      | Answer 1                                   | Answer 2                     | Answer 3
-|------                       |-----                                                                           |----
-|   EIA RECS                  | dsfvi | chihcia | dvdsv 
-|   Flip your savings         | dsfvi | chihcia  | svdsv 
-|   Greenhouse equivalencies  | dsfvi | chihcia    | vdsva 
-|   LLNL Energy flows         | dsfvi | chihcia                                                 |  jgygb
+<img src="Slide1.JPG" width="800" height="1800"/>
+<img src="Slide2_reviews.jpg" width="800" height="1800"/>
+
+## In class reviews:
+
+<img src="Slide2_Inclass.jpg" width="800" height="1800"/>
 
 
 # Moodboards and Persona
