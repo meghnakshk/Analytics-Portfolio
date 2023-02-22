@@ -8,12 +8,21 @@ Based on the sketches done in Part 1, I constructed the my basic wireframe and s
 
 # User Research and Interviews:
 
+## Interviewees:
+
+<img src="Reviews_Profile.jpg" width="800" height="400"/>
+
+## Interview Answers:
+
 <img src="Slide1.JPG" width="800" height="1400"/>
 <img src="Slide2_reviews.jpg" width="800" height="600"/>
 
 ## In class reviews:
 
 <img src="Slide2_Inclass.jpg" width="800" height="500"/>
+
+## Takeaways:
+
 
 
 # Moodboards and Persona
