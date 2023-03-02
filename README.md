@@ -44,7 +44,12 @@ Here it might be helpful to include a high-level description of your final proje
 Part one discusses a brief outline of the project and illustrates a tentative workflow through various sketches. The project caters to ordinary people in the United States; it describes the importance of energy efficiency in homes. This project talks explicitly about refrigerators, the number of old refrigerators in the country, and the need to replace them. It directs the readers to sources for energy star products and financial aid. 
 
 ### [Part II](final-project-part-two)
+
+Part two covers wireframes and story boards for the sketches generated from Part1, User Research and Interview Scripts, Profiles of interviewrs, Interview Answers, In-class reviews, takeaways, moodboard and persona. 
+
 ### [Part III](final-project-part-three)
+
+Part three has the final Presentation Link, it has a broad overview of the work done in Part 1 and Part 2, and the changes incorporated in Part 3.  
 
 ---
 
