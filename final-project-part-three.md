@@ -3,7 +3,7 @@
 # Final Presentation:
 
 ### Link: [How old is your refrigerator?](https://carnegiemellon.shorthandstories.com/how-old-is-your-refrigerator/index.html)
-#### URL: https://carnegiemellon.shorthandstories.com/how-old-is-your-refrigerator/index.html
+### URL: https://carnegiemellon.shorthandstories.com/how-old-is-your-refrigerator/index.html
 
 # Overall Summary:
 
