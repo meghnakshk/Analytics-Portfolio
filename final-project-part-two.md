@@ -1,4 +1,4 @@
-| [home page](https://meghnakshk.github.io/Analytics-Portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://meghnakshk.github.io/Analytics-Portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |  [Misc visualizations](misc-visualization) |
 
 # Wireframes and Storyboards
 
