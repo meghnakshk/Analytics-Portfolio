@@ -33,4 +33,4 @@ Visualization 2.1 combines the advantages of a grid of line chart and a radial h
   var scriptElement = document.createElement('script');                    
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
-</script>   
+</script>  
