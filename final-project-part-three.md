@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://meghnakshk.github.io/Analytics-Portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Final Presentation:
 
@@ -8,32 +8,46 @@
 # Overall Summary:
 
 ### Brief
-We’ve been severely underreporting how much buildings contribute to overall energy consumption. Accounting for the inefficiency of electricity generation from non-renewable sources, buildings contribute 40% of all energy used. Even a efficiency measure in buildings could make a huge difference. Appliances, in buildings, particularly, refrigerators are major electricity hoggers because they’re running 24 x 7, all day. But refrigerators are also the easiest to replace amongst all appliances. There are 4.5 million households that have 20+-year-old refrigerators even today and 50% of all refrigerators are in low-income households. Switching out the refrigerator could save us a large amount of energy. The call to action is to urge homeowners to give up refrigerators that are older than 20 years to replace them. I provide resources to rebates, and the energy star portfolio to help users make their decision easily.
+
+We've been severely underreporting how much buildings contribute to overall energy consumption. Accounting for the inefficiency of electricity generation from non-renewable sources that buildings source it's energy from, buildings contribute 40% of all energy used. Even an efficiency measure in buildings could make a huge difference. Appliances in buildings, mainly refrigerators, are major electricity hoggers because they're running 24 x 7 all day. But refrigerators are also the easiest to replace among all appliances. There are 4.5 million households that have 20+-year-old refrigerators even today, and 50% of all refrigerators are in low-income households. Switching out the refrigerator could save us a large amount of energy. The call to action is to urge homeowners to give up refrigerators older than 20 years to replace them. I provide resources for rebates and the energy star portfolio to help users decide easily.
 
 # Final Audience: 
 
+In part 2 of this exercise, I identified the audience as homeowners and Government Officials. In Part 3, my target audience still holds good. The only change I added is a savings calculator. It is more proactive, helps users engage and check an estimate of their cost savings which might motivate them to switch out their refrigerators. 
 
+*#### Homeowners
+
+<img src="Homeowners.jpg" width="400" height="400"/>
+
+*Homeowners are the main target for this blog post because several of them are unaware of the ineffectiveness of their old refrigerators. Homeowners tend to use their refrigerator for as long as it works without realizing how detrimental it is to the environment and how bad it is for their pockets. Homeowners often read about climate change but usually need to learn how to contribute to the fight against it. This blog post is an effective strategy for them to contribute to saving energy for the climate and cost on their energy bills.*
+
+*#### Government Officials
+
+<img src="Government Officials.jpg" width="400" height="400"/>
+
+*Low-income households especially suffer from energy insecurity. Families struggle to pay bills. The government has measures for energy insecurity and funding to pay bills for impoverished households under The Low Income Home Energy Assistance Program (LIHEAP). However, the government needs to have measures in place for complete equipment switchouts. Total equipment replacements have a payback of 5 years for refrigerators and are a more effective solution than energy bill assistance programs. This blog post could also be informative for government officials to understand where they could focus on savings.*
 
 
 # Progress
 
-I identified the project outline in Part 1, and developed some intial brainstorming rough sketches for it. 
+I identified the project outline in Part 1 and developed some initial brainstorming rough sketches. 
 
-In part two, I identified the target audience as Homeowners, and Officials. I chose a suitable color palette and I developed a wireframe of the entire storyline on Shorthand and consulted three people (some from the target audience) and asked them to review it. I also made a note of the the in-class reviews I received and made a list of all the suggestions that I needed to take into consideration for Part 3.
+In part two, I identified the target audience as Homeowners and Officials. I chose a suitable colour palette, developed a wireframe of the entire storyline on Shorthand, consulted three people (some from the target audience), and asked them to review it. I also noted the in-class reviews I received and made a list of all the suggestions I needed to consider for Part 3.
 
-In Part 3, I have addressed all the suggestions I received from Part 2. I also added:
+In Part 3, I have addressed all the suggestions I received from Part 2. I also added the following:
 
 - A graphic towards the end that helps users calculate their cost, energy, and carbon savings for various refrigerators by volume. 
-- I added conversion factors for energy and carbon emissions to avoid potentially replacing these refrigerators. These are easier to understand since energy is not an easy metric to comprehend.
-- I added Government Officials to the last slide as one of the target audiences. 
-- I formatted the slides
+- I added energy and carbon emissions conversion factors that would encourage users to exchange their refrigerators. These are easier to understand since energy is a challenging metric to comprehend.
+- I added Government Officials to the last slide as one of the target audiences in the main presentation.
+- I formatted the slides to look complete.
+
 
 # Changes from Part 2 Review:
 ***Suggestion to add background images to visualizations: When I first presented the preview, I put together the visualizations on a white background which many felt did not go with the rest of the presentation. I added images and thought that it looked better.***
 
 I considered this suggestion and added background images behind all visualizations to make the presentation look coherent.
 
-***Income- Age Refrigerator Visualization:
+***Income-Age Refrigerator Visualization:
 The visualization towards the end didn’t incorporate total numbers of all income groups initially, which people preferred seeing. I added that to show the totals and the number of 20+-year-old refrigerators.***
 
 The updated graphic has totals of all income groups and e individual numbers and percentages highlighting the number of households with 20+-year-old refrigerators. 
