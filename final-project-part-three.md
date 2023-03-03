@@ -7,16 +7,7 @@
 
 # Overall Summary:
 
-The project aims to urge homeowners to give up refrigerators that are older than 20 years to replace them. 
-
-We’ve been severely underreporting how much buildings contribute to overall energy consumption. Accounting for the inefficiency of electricity generation from non-renewable sources, buildings contribute 40% of all energy used. Even a small, efficient design in buildings could make a huge difference.
-These graphics represent energy consumption in buildings, residential buildings, and appliances.
-They are major electricity hoggers because they’re running 24 x 7, but the good thing is they are the easiest to replace.
-There are 4.5 million households that have 20+-year-old refrigerators even today.
-50% of all refrigerators are in low-income households.
-And switching out the refrigerator could save us a large amount of energy, and it would be the energy equivalent to the power generated annually by solar panels as large as 300 soccer fields. We could save carbon emissions equivalent to the ones emitted by going around the globe in a Prius 400,000 times.
-The call to action is that you can access the portfolio of energy star refrigerator products to replace your refrigerators today, and low-income households can access government-proposed rebates. 
-
+Brief: We’ve been severely underreporting how much buildings contribute to overall energy consumption. Accounting for the inefficiency of electricity generation from non-renewable sources, buildings contribute 40% of all energy used. Even a efficiency measure in buildings could make a huge difference. Appliances, in buildings, particularly, refrigerators are major electricity hoggers because they’re running 24 x 7, all day. But refrigerators are also the easiest to replace amongst all appliances. There are 4.5 million households that have 20+-year-old refrigerators even today and 50% of all refrigerators are in low-income households. Switching out the refrigerator could save us a large amount of energy. The call to action is to urge homeowners to give up refrigerators that are older than 20 years to replace them. I provide resources to rebates, and the energy star portfolio to help users make their decision easily.
 
 I identified the project outline in Part 1, and developed some intial brainstorming rough sketches for it. 
 
