@@ -47,7 +47,9 @@ While I finalized my initial color scheme, all other formatting was incomplete. 
 ### Data Visualizations:
 All data in all visualizations include sources in the footnote of the visualization.
 
-#### References
+#### All references
+
+(CERT) C. E. (2013). Is your old refrigerator an energy hog? Retrieved from https://www.cleanenergyresourceteams.org/your-old-refrigerator-energy-hog#:~:text=A%2020%2Dyear%2Dold%20refrigerator,of%20about%207%2D9%20years
 
 LLNL. (2020). Energy Flowcharts. Retrieved from https://flowcharts.llnl.gov/
 
@@ -55,10 +57,13 @@ EIA. (2015). Residential Energy Consumption Survey. Retrieved from https://www.e
 
 EIA. (2020). Residential Energy Consumption Survey. Retrieved from https://www.eia.gov/consumption/residential/data/2020/
 
-(CERT) C. E. (2013). Is your old refrigerator an energy hog? Retrieved from https://www.cleanenergyresourceteams.org/your-old-refrigerator-energy-hog#:~:text=A%2020%2Dyear%2Dold%20refrigerator,of%20about%207%2D9%20years
+EPA. (2022). Greenhouse Gas Equivalencies Calculator. Retrieved from https://www.epa.gov/energy/greenhouse-gas-equivalencies-calculator
 
+Energy Star. (n.d.). Flip Your Fridge Calculator. Retrieved from https://www.energystar.gov/products/appliances/refrigerators/flip-your-fridge
 
+Energy Star. (n.d.). Rebate Finder. Retrieved from https://www.energystar.gov/rebate-finder
 
+Energy Star. (2022). Refrigerator Product Finder. Retrieved from https://www.energystar.gov/productfinder/product/certified-residential-refrigerators/results
 
 
 ### Images:
