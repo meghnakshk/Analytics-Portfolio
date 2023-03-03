@@ -7,6 +7,17 @@
 
 # Overall Summary:
 
+The project aims to urge homeowners to give up refrigerators that are older than 20 years to replace them. 
+
+We’ve been severely underreporting how much buildings contribute to overall energy consumption. Accounting for the inefficiency of electricity generation from non-renewable sources, buildings contribute 40% of all energy used. Even a small, efficient design in buildings could make a huge difference.
+These graphics represent energy consumption in buildings, residential buildings, and appliances.
+They are major electricity hoggers because they’re running 24 x 7, but the good thing is they are the easiest to replace.
+There are 4.5 million households that have 20+-year-old refrigerators even today.
+50% of all refrigerators are in low-income households.
+And switching out the refrigerator could save us a large amount of energy, and it would be the energy equivalent to the power generated annually by solar panels as large as 300 soccer fields. We could save carbon emissions equivalent to the ones emitted by going around the globe in a Prius 400,000 times.
+The call to action is that you can access the portfolio of energy star refrigerator products to replace your refrigerators today, and low-income households can access government-proposed rebates. 
+
+
 I identified the project outline in Part 1, and developed some intial brainstorming rough sketches for it. 
 
 In part two, I identified the target audience as Homeowners, and Officials. I chose a suitable color palette and I developed a wireframe of the entire storyline on Shorthand and consulted three people (some from the target audience) and asked them to review it. I also made a note of the the in-class reviews I received and made a list of all the suggestions that I needed to take into consideration for Part 3.
