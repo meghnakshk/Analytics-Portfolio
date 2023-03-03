@@ -23,10 +23,7 @@ In Part 3, I have addressed all the suggestions I received from Part 2. I also a
 - I added Government Officials to the last slide as one of the target audiences. 
 - I formatted the slides
 
-#### Visualization: 
-I created mostly all visualizations on Tableau, only the refrigerator savings calculator was created on Flourish.
-
-# Changes from Part 2:
+# Changes from Part 2 Review:
 ***Suggestion to add background images to visualizations: When I first presented the preview, I put together the visualizations on a white background which many felt did not go with the rest of the presentation. I added images and thought that it looked better.***
 
 I considered this suggestion and added background images behind all visualizations to make the presentation look coherent.
@@ -45,12 +42,15 @@ Add information about the specific target audience and the solution towards the 
 
 While I finalized my initial color scheme, all other formatting was incomplete. I addressed the formatting comment in the final presentation. All critical text is changed to brown to highlight, and all the other text is black.
 
+#### Visualization: 
+I created mostly all visualizations on Tableau, only the refrigerator savings calculator was created on Flourish.
+
 # Turnit in Scores and Sources:
 
 ### Data Visualizations:
 All data in all visualizations include sources in the footnote of the visualization.
 
-#### All references
+#### All data references
 
 (CERT) C. E. (2013). Is your old refrigerator an energy hog? Retrieved from https://www.cleanenergyresourceteams.org/your-old-refrigerator-energy-hog#:~:text=A%2020%2Dyear%2Dold%20refrigerator,of%20about%207%2D9%20years
 
@@ -89,6 +89,7 @@ daniil- stock.adobe.com
 
 
 ### Text: 
+I could not access Turnitin because it needed a pin to login. CMU linrary suggested another similarity score checking platform called iThenticate. The report from iThenticate is attached below:
 
 <img src="Similarity Score.png" width="800"/>
 
