@@ -71,7 +71,7 @@ Energy Star. (2022). Refrigerator Product Finder. Retrieved from https://www.ene
 
 ### Images:
 
-### References:
+#### References:
 
 nat2851terry - stock.adobe.com
 nat2851terry - stock.adobe.com
