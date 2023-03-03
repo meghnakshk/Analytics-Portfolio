@@ -89,7 +89,7 @@ daniil- stock.adobe.com
 
 
 ### Text: 
-I could not access Turnitin because it needed a pin to login. CMU linrary suggested another similarity score checking platform called iThenticate. The report from iThenticate is attached below:
+I could not access Turnitin because it needed a pin to login. CMU library suggested another similarity score checking platform called iThenticate. The report from iThenticate is attached below:
 
 <img src="Similarity Score.png" width="800"/>
 
