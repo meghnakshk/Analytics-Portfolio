@@ -7,8 +7,10 @@
 
 # Overall Summary:
 
-#### Brief
+### Brief
 We’ve been severely underreporting how much buildings contribute to overall energy consumption. Accounting for the inefficiency of electricity generation from non-renewable sources, buildings contribute 40% of all energy used. Even a efficiency measure in buildings could make a huge difference. Appliances, in buildings, particularly, refrigerators are major electricity hoggers because they’re running 24 x 7, all day. But refrigerators are also the easiest to replace amongst all appliances. There are 4.5 million households that have 20+-year-old refrigerators even today and 50% of all refrigerators are in low-income households. Switching out the refrigerator could save us a large amount of energy. The call to action is to urge homeowners to give up refrigerators that are older than 20 years to replace them. I provide resources to rebates, and the energy star portfolio to help users make their decision easily.
+
+### Progress
 
 I identified the project outline in Part 1, and developed some intial brainstorming rough sketches for it. 
 
@@ -44,6 +46,20 @@ While I finalized my initial color scheme, all other formatting was incomplete. 
 
 ### Data Visualizations:
 All data in all visualizations include sources in the footnote of the visualization.
+
+#### References
+
+*Visualization 1* :
+*Visualization 2* :
+*Visualization 3* :
+*Visualization 4* :
+*Visualization 5* :
+*Visualization 6* :
+*Visualization 7* :
+*Visualization 8* :
+*Visualization 9* :
+
+
 
 ### Images:
 All background images for the presentation are from Adobe Stock images. This is a paid source and require no citing.
