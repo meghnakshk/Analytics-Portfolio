@@ -66,7 +66,7 @@ All background images for the presentation are from Adobe Stock images. This is 
 
 ### Text: 
 
-<img src="Similarity Score.png" width="400"/>
+<img src="Similarity Score.png" width="800"/>
 
 
 
