@@ -69,6 +69,24 @@ Energy Star. (2022). Refrigerator Product Finder. Retrieved from https://www.ene
 ### Images:
 All background images for the presentation are from Adobe Stock images. This is a paid source and require no citing.
 
+### References:
+
+nat2851terry - stock.adobe.com
+nat2851terry - stock.adobe.com
+MAXSHOT_PL - stock.adobe.com
+rangizzz - stock.adobe.com
+Tryfonov - stock.adobe.com
+praethip - stock.adobe.com
+Angelov - stock.adobe.com
+Creative optiplex - stock.adobe.com
+AntonioLopez - stock.adobe.com
+Ljupco Smokovski - stock.adobe.com
+bo.kvk - stock.adobe.com
+Yura Yarema - stock.adobe.com
+daniil- stock.adobe.com
+
+
+
 ### Text: 
 
 <img src="Similarity Score.png" width="800"/>
