@@ -49,15 +49,15 @@ All data in all visualizations include sources in the footnote of the visualizat
 
 #### References
 
-*Visualization 1* :
-*Visualization 2* :
-*Visualization 3* :
-*Visualization 4* :
-*Visualization 5* :
-*Visualization 6* :
-*Visualization 7* :
-*Visualization 8* :
-*Visualization 9* :
+LLNL. (2020). Energy Flowcharts. Retrieved from https://flowcharts.llnl.gov/
+
+EIA. (2015). Residential Energy Consumption Survey. Retrieved from https://www.eia.gov/consumption/residential/data/2015/
+
+EIA. (2020). Residential Energy Consumption Survey. Retrieved from https://www.eia.gov/consumption/residential/data/2020/
+
+(CERT) C. E. (2013). Is your old refrigerator an energy hog? Retrieved from https://www.cleanenergyresourceteams.org/your-old-refrigerator-energy-hog#:~:text=A%2020%2Dyear%2Dold%20refrigerator,of%20about%207%2D9%20years
+
+
 
 
 
