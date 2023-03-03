@@ -23,6 +23,9 @@ In Part 3, I have addressed all the suggestions I received from Part 2. I also a
 - I added Government Officials to the last slide as one of the target audiences. 
 - I formatted the slides
 
+#### Visualization: 
+I created mostly all visualizations on Tableau, only the refrigerator savings calculator was created on Flourish.
+
 # Changes from Part 2:
 ***Suggestion to add background images to visualizations: When I first presented the preview, I put together the visualizations on a white background which many felt did not go with the rest of the presentation. I added images and thought that it looked better.***
 
@@ -67,7 +70,6 @@ Energy Star. (2022). Refrigerator Product Finder. Retrieved from https://www.ene
 
 
 ### Images:
-All background images for the presentation are from Adobe Stock images. This is a paid source and require no citing.
 
 ### References:
 
@@ -84,7 +86,6 @@ Ljupco Smokovski - stock.adobe.com
 bo.kvk - stock.adobe.com
 Yura Yarema - stock.adobe.com
 daniil- stock.adobe.com
-
 
 
 ### Text: 
